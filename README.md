@@ -15,7 +15,7 @@ Plots a time versus displacement.
 Plots a scatter plot of xy coordinates.
 
 ## How to use?
-  1) pull the repository into the your local files or simply copy the code as a  <code> <b>.py</b>  </code> file
+  1) pull the repository into the your local files or simply copy the code as a  <code><b>.py</b></code> file
   2) make sure both the time graph file or the xy graph file is in  <code>.csv</code> file format. Put all the csv file in the same directory as your python file
   3) In the respective python3 file you can go into the file and change the filename
   4) run in terminal  <code><b>python3 filename </b></code> where filename can be <code>make_timegraph.py</code> or <code>make_xygraph.py</code>
